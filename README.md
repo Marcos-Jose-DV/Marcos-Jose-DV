@@ -6,27 +6,16 @@ Experiência com SGBD SQL Server, versionamento de código com Git/Github, mapea
 objetos para o banco usando Entity Framework ou Dapper. Conhecimento em Microserviços.
 </p>
 
+<div>
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Marcos-Jose-DV&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Marcos-Jose-DV&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=Marcos-Jose-DV&show_icons=true" />
-</picture>
-
-<br>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcos-Jose-DV&show_icons=true&theme=dark) 
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 <div style="display: inline_block0"><br>
 <img align="center" alt"Marcos-Csharp" height="30" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" >
   <img align="center" alt"Marcos-JS" height="30" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" >
   <img align="center" alt"Marcos-HTML" height="30" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" >
   <img align="center" alt"Marcos-CSS" height="30" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" >
-  
- 
 </div>
 
 
