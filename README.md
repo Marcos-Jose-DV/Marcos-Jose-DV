@@ -1,3 +1,12 @@
+<h1>Olá eu sou Marcos José</h1>
+<p>
+  Desenvolvedor .NET com experiência em desenvolvimento de aplicações Web e Web APIs
+utilizando ASP.NET Core. Possuo conhecimentos sólidos em C#, Javascript, HTML/CSS.
+Experiência com SGBD SQL Server, versionamento de código com Git/Github, mapeamento de
+objetos para o banco usando Entity Framework ou Dapper. Conhecimento em Microserviços.
+</p>
+
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=Marcos-Jose-DV&show_icons=true&theme=dark"
