@@ -14,3 +14,7 @@
   <img align="center" alt"Marcos-HTML" height="30" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" >
   <img align="center" alt"Marcos-CSS" height="30" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" >
 </div>
+
+## Stats
+
+<img src="https://repobeats.axiom.co/api/embed/f917a77cbbdeee19b87fa1f2f932895d1df18b71.svg" />
